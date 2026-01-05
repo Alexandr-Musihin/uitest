@@ -393,10 +393,11 @@ playwright codegen https://www.saucedemo.com
 
 <div align="center">
 
-**📞 Нужна помощь?** [Создайте Issue](https://github.com/yourusername/swag-labs-tests/issues)
 
-**🔄 Последнее обновление:** Август 2024
+
+**🔄 Последнее обновление:** Январь 2026
 
 
 </div>
+
 
