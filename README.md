@@ -311,7 +311,7 @@ git push origin feature/amazing-feature
 
 ## 📄 Лицензия
 
-Этот проект лицензирован под MIT License — подробности см. в файле [LICENSE](LICENSE).
+Этот проект лицензирован под MIT License.
 
 ---
 
@@ -399,3 +399,4 @@ playwright codegen https://www.saucedemo.com
 
 
 </div>
+
